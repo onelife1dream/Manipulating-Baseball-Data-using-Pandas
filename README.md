@@ -1,4 +1,5 @@
-# sky
-My first repository.
+# Data Mining for baseball game
 
-Here is Yiping.
+This is a project using baseball data to explore some information.
+
+
