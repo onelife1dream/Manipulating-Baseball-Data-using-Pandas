@@ -1,3 +1,8 @@
+PA(plate Appearances)=AB+BB+IBB+SH+SF
+Average=H/AB
+OBP(on base percentage)=(H+BB+IBB+SH+SF)/AB
+
+
 1)	Load in the appropriate csv file as a pandas dataframe (batting.csv)
 2)	Print out the dimensions and info about the dataframe you just created
 3)	How many players have hit 40 or more HRs in one single season(year)? (Number only)
